@@ -9,6 +9,8 @@
       "nickname": "@twitter",
       "address": "San Francisco, CA",
       "link": "blog.twitter.com",
+      "following":false,
+      "follower":true,
       "joined": "2019-10-31T02:14:39Z"
     },
     {
@@ -20,6 +22,8 @@
       "nickname": "estammler0",
       "address": "0698 Kensington Crossing",
       "link": "12.30.27.156",
+      "following":false,
+      "follower":false,
       "joined": "2019-10-31T02:14:39Z"
     },
     {
@@ -31,6 +35,8 @@
       "nickname": "rcircuit1",
       "address": "9390 Garrison Point",
       "link": "148.135.252.73",
+      "following":false,
+      "follower":true,
       "joined": "2019-07-13T22:22:23Z"
     },
     {
@@ -42,6 +48,8 @@
       "nickname": "bantonopoulos2",
       "address": "00458 Milwaukee Park",
       "link": "113.228.57.196",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-30T15:54:53Z"
     },
     {
@@ -53,6 +61,8 @@
       "nickname": "egroves3",
       "address": "928 West Center",
       "link": "42.187.162.251",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-10T03:44:23Z"
     },
     {
@@ -64,6 +74,8 @@
       "nickname": "elux4",
       "address": "7 Dwight Lane",
       "link": "168.250.170.178",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-20T11:23:31Z"
     },
     {
@@ -75,6 +87,8 @@
       "nickname": "mwaddingham5",
       "address": "55 Spenser Junction",
       "link": "80.129.169.19",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-27T21:01:51Z"
     },
     {
@@ -86,6 +100,8 @@
       "nickname": "cfeldharker6",
       "address": "64737 Northridge Trail",
       "link": "141.53.86.52",
+      "following":false,
+      "follower":false,
       "joined": "2019-10-28T04:28:15Z"
     },
     {
@@ -97,6 +113,8 @@
       "nickname": "akavanagh7",
       "address": "82802 Burrows Terrace",
       "link": "165.43.18.83",
+      "following":false,
+      "follower":false,
       "joined": "2020-05-05T20:00:12Z"
     },
     {
@@ -108,6 +126,8 @@
       "nickname": "hchildren8",
       "address": "9093 Laurel Pass",
       "link": "112.248.178.17",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-06T14:21:44Z"
     },
     {
@@ -119,6 +139,8 @@
       "nickname": "jridding9",
       "address": "2208 Coleman Point",
       "link": "238.207.156.43",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-25T20:33:41Z"
     },
     {
@@ -130,6 +152,8 @@
       "nickname": "cmcrobertsa",
       "address": "0260 Truax Center",
       "link": "34.5.27.223",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-08T21:05:53Z"
     },
     {
@@ -141,6 +165,8 @@
       "nickname": "krosb",
       "address": "1 Dryden Point",
       "link": "224.130.109.110",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-12T13:19:09Z"
     },
     {
@@ -152,6 +178,8 @@
       "nickname": "dwychardc",
       "address": "7644 Orin Avenue",
       "link": "56.166.146.171",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-30T02:57:06Z"
     },
     {
@@ -163,6 +191,8 @@
       "nickname": "rclaidend",
       "address": "1 Lillian Avenue",
       "link": "207.97.198.44",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-17T16:19:18Z"
     },
     {
@@ -174,6 +204,8 @@
       "nickname": "cjimee",
       "address": "3610 Novick Crossing",
       "link": "8.100.72.2",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-26T20:13:39Z"
     },
     {
@@ -185,6 +217,8 @@
       "nickname": "dallanbyf",
       "address": "6859 Forest Dale Way",
       "link": "170.69.42.142",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-29T00:54:00Z"
     },
     {
@@ -196,6 +230,8 @@
       "nickname": "pdominguesg",
       "address": "266 Chinook Court",
       "link": "217.130.119.234",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-04T00:26:02Z"
     },
     {
@@ -207,6 +243,8 @@
       "nickname": "dbuckbeeh",
       "address": "86 Colorado Place",
       "link": "195.239.38.75",
+      "following":false,
+      "follower":false,
       "joined": "2019-05-29T04:19:17Z"
     },
     {
@@ -218,6 +256,8 @@
       "nickname": "dburderi",
       "address": "86416 Lawn Pass",
       "link": "97.164.58.115",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-02T03:19:44Z"
     },
     {
@@ -229,6 +269,8 @@
       "nickname": "thonschj",
       "address": "776 Graceland Pass",
       "link": "6.199.137.153",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-09T21:50:52Z"
     },
     {
@@ -240,6 +282,8 @@
       "nickname": "lbuttrickk",
       "address": "513 Green Ridge Park",
       "link": "223.65.88.35",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-15T02:21:40Z"
     },
     {
@@ -251,6 +295,8 @@
       "nickname": "dnafzgerl",
       "address": "1704 Tennessee Avenue",
       "link": "44.200.42.104",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-14T10:48:53Z"
     },
     {
@@ -262,6 +308,8 @@
       "nickname": "nsimonelm",
       "address": "764 Marcy Alley",
       "link": "166.20.121.192",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-10T02:48:19Z"
     },
     {
@@ -273,6 +321,8 @@
       "nickname": "csambern",
       "address": "1203 Butternut Parkway",
       "link": "96.191.62.117",
+      "following":false,
+      "follower":false,
       "joined": "2020-02-22T08:15:02Z"
     },
     {
@@ -284,6 +334,8 @@
       "nickname": "lballo",
       "address": "528 Starling Hill",
       "link": "203.14.46.89",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-31T23:06:49Z"
     },
     {
@@ -295,6 +347,8 @@
       "nickname": "akrzysztofiakp",
       "address": "1 Graceland Street",
       "link": "55.204.138.53",
+      "following":false,
+      "follower":true,
       "joined": "2019-08-09T20:22:46Z"
     },
     {
@@ -306,6 +360,8 @@
       "nickname": "eiddonq",
       "address": "96 Stang Parkway",
       "link": "94.14.91.105",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-01T02:06:41Z"
     },
     {
@@ -317,6 +373,8 @@
       "nickname": "sbuxceyr",
       "address": "06717 Welch Place",
       "link": "97.38.38.33",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-20T18:57:45Z"
     },
     {
@@ -328,6 +386,8 @@
       "nickname": "vhugginss",
       "address": "1143 Anniversary Park",
       "link": "113.76.118.205",
+      "following":false,
+      "follower":false,
       "joined": "2020-05-04T13:56:45Z"
     },
     {
@@ -339,6 +399,8 @@
       "nickname": "ltoplist",
       "address": "0 Loomis Street",
       "link": "46.185.238.158",
+      "following":false,
+      "follower":true,
       "joined": "2019-10-28T06:03:05Z"
     },
     {
@@ -350,6 +412,8 @@
       "nickname": "mcheseu",
       "address": "0458 Stone Corner Trail",
       "link": "206.72.248.141",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-25T05:59:29Z"
     },
     {
@@ -361,6 +425,8 @@
       "nickname": "wjanikv",
       "address": "72 Heath Court",
       "link": "146.83.201.56",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-08T05:34:27Z"
     },
     {
@@ -372,6 +438,8 @@
       "nickname": "idwerryhousew",
       "address": "5256 Oriole Road",
       "link": "47.77.183.186",
+      "following":false,
+      "follower":true,
       "joined": "2020-05-06T22:20:27Z"
     },
     {
@@ -383,6 +451,8 @@
       "nickname": "mhansodx",
       "address": "3447 Forest Run Point",
       "link": "248.22.172.48",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-30T01:35:33Z"
     },
     {
@@ -394,6 +464,8 @@
       "nickname": "mdevasy",
       "address": "96 Cascade Park",
       "link": "206.106.208.37",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-09T04:08:43Z"
     },
     {
@@ -405,6 +477,8 @@
       "nickname": "ewaltersz",
       "address": "1 Pierstorff Lane",
       "link": "174.119.27.89",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-28T19:09:13Z"
     },
     {
@@ -416,6 +490,8 @@
       "nickname": "gfenton10",
       "address": "81617 Northland Pass",
       "link": "114.241.85.167",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-24T07:20:13Z"
     },
     {
@@ -427,6 +503,8 @@
       "nickname": "bgislebert11",
       "address": "989 Maple Center",
       "link": "128.167.5.226",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-05T03:17:20Z"
     },
     {
@@ -438,6 +516,8 @@
       "nickname": "saleksankin12",
       "address": "6404 Mendota Point",
       "link": "123.68.68.85",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-28T12:58:40Z"
     },
     {
@@ -449,6 +529,8 @@
       "nickname": "sblenkharn13",
       "address": "18256 Bartillon Terrace",
       "link": "132.200.19.115",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-17T14:32:31Z"
     },
     {
@@ -460,6 +542,8 @@
       "nickname": "estopford14",
       "address": "0468 Pearson Hill",
       "link": "163.195.222.148",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-13T13:38:57Z"
     },
     {
@@ -471,6 +555,8 @@
       "nickname": "cchatres15",
       "address": "670 Springs Park",
       "link": "217.218.112.168",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-14T04:16:42Z"
     },
     {
@@ -482,6 +568,8 @@
       "nickname": "nrozzell16",
       "address": "1137 Waxwing Hill",
       "link": "79.150.208.97",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-08T18:57:21Z"
     },
     {
@@ -493,6 +581,8 @@
       "nickname": "mlorriman17",
       "address": "1334 Dunning Street",
       "link": "186.156.228.96",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-08T11:43:16Z"
     },
     {
@@ -504,6 +594,8 @@
       "nickname": "mculpin18",
       "address": "38 Farmco Place",
       "link": "12.220.164.125",
+      "following":false,
+      "follower":false,
       "joined": "2019-05-31T15:52:28Z"
     },
     {
@@ -515,6 +607,8 @@
       "nickname": "vfideler19",
       "address": "32290 Sherman Drive",
       "link": "173.115.106.196",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-16T03:43:11Z"
     },
     {
@@ -526,6 +620,8 @@
       "nickname": "dannwyl1a",
       "address": "75 Stoughton Street",
       "link": "183.61.112.187",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-12T23:33:18Z"
     },
     {
@@ -537,6 +633,8 @@
       "nickname": "pgambell1b",
       "address": "33 Sommers Point",
       "link": "88.129.75.25",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-23T08:30:00Z"
     },
     {
@@ -548,6 +646,8 @@
       "nickname": "lquenell1c",
       "address": "21240 Crowley Street",
       "link": "62.193.174.108",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-20T15:29:48Z"
     },
     {
@@ -559,6 +659,8 @@
       "nickname": "ppetrelluzzi1d",
       "address": "959 Ridgeview Crossing",
       "link": "54.232.54.112",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-30T08:09:25Z"
     },
     {
@@ -570,6 +672,8 @@
       "nickname": "gcahani1e",
       "address": "32 Division Park",
       "link": "185.245.203.56",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-06T01:56:25Z"
     },
     {
@@ -581,6 +685,8 @@
       "nickname": "khumbert1f",
       "address": "70336 Gale Terrace",
       "link": "222.154.243.237",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-11T08:56:48Z"
     },
     {
@@ -592,6 +698,8 @@
       "nickname": "tberthomier1g",
       "address": "92368 Sunfield Place",
       "link": "186.18.1.76",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-06T18:28:28Z"
     },
     {
@@ -603,6 +711,8 @@
       "nickname": "bdallicoat1h",
       "address": "47966 North Court",
       "link": "121.102.58.83",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-22T15:59:49Z"
     },
     {
@@ -614,6 +724,8 @@
       "nickname": "ijobb1i",
       "address": "5 Harbort Place",
       "link": "139.45.107.203",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-12T05:04:07Z"
     },
     {
@@ -625,6 +737,8 @@
       "nickname": "sbilyard1j",
       "address": "156 Del Sol Park",
       "link": "159.234.248.180",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-12T13:40:06Z"
     },
     {
@@ -636,6 +750,8 @@
       "nickname": "fdomoni1k",
       "address": "81 Haas Trail",
       "link": "8.23.126.191",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-22T08:31:41Z"
     },
     {
@@ -647,6 +763,8 @@
       "nickname": "bkernar1l",
       "address": "6420 Jenna Crossing",
       "link": "64.148.138.55",
+      "following":false,
+      "follower":false,
       "joined": "2020-02-03T12:07:10Z"
     },
     {
@@ -658,6 +776,8 @@
       "nickname": "jkirsch1m",
       "address": "36 Delaware Point",
       "link": "244.250.82.52",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-21T00:20:09Z"
     },
     {
@@ -669,6 +789,8 @@
       "nickname": "pivers1n",
       "address": "8 6th Place",
       "link": "117.27.120.16",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-22T09:03:03Z"
     },
     {
@@ -680,6 +802,8 @@
       "nickname": "epigot1o",
       "address": "7576 Barby Trail",
       "link": "163.197.69.23",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-26T15:46:53Z"
     },
     {
@@ -691,6 +815,8 @@
       "nickname": "bgawkes1p",
       "address": "03417 Oakridge Lane",
       "link": "41.232.23.237",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-29T05:09:42Z"
     },
     {
@@ -702,6 +828,8 @@
       "nickname": "hjarrard1q",
       "address": "059 Killdeer Plaza",
       "link": "164.154.232.254",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-11T12:07:19Z"
     },
     {
@@ -713,6 +841,8 @@
       "nickname": "pdurgan1r",
       "address": "9 Union Parkway",
       "link": "141.161.111.150",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-05T06:40:56Z"
     },
     {
@@ -724,6 +854,8 @@
       "nickname": "sstentiford1s",
       "address": "2037 Elka Way",
       "link": "116.158.10.209",
+      "following":false,
+      "follower":false,
       "joined": "2020-02-04T10:30:05Z"
     },
     {
@@ -735,6 +867,8 @@
       "nickname": "eseale1t",
       "address": "71 Eagle Crest Terrace",
       "link": "224.227.111.198",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-06T11:49:53Z"
     },
     {
@@ -746,6 +880,8 @@
       "nickname": "tjosselson1u",
       "address": "4160 Quincy Parkway",
       "link": "49.198.84.173",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-25T20:52:43Z"
     },
     {
@@ -757,6 +893,8 @@
       "nickname": "calvin1v",
       "address": "7 Garrison Court",
       "link": "1.74.205.117",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-05T18:04:35Z"
     },
     {
@@ -768,6 +906,8 @@
       "nickname": "rcosker1w",
       "address": "32 Judy Junction",
       "link": "133.199.253.229",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-11T20:21:44Z"
     },
     {
@@ -779,6 +919,8 @@
       "nickname": "dknowling1x",
       "address": "1 American Ash Court",
       "link": "4.78.235.209",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-11T12:54:55Z"
     },
     {
@@ -790,6 +932,8 @@
       "nickname": "gbaggot1y",
       "address": "27 Fair Oaks Avenue",
       "link": "43.38.82.148",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-31T12:30:22Z"
     },
     {
@@ -801,6 +945,8 @@
       "nickname": "bbartolacci1z",
       "address": "8 Garrison Plaza",
       "link": "24.100.45.70",
+      "following":false,
+      "follower":false,
       "joined": "2020-02-28T01:14:44Z"
     },
     {
@@ -812,6 +958,8 @@
       "nickname": "fposer20",
       "address": "90112 Shelley Crossing",
       "link": "139.51.16.250",
+      "following":false,
+      "follower":false,
       "joined": "2019-05-22T21:06:21Z"
     },
     {
@@ -823,6 +971,8 @@
       "nickname": "wjurgensen21",
       "address": "5980 Forest Point",
       "link": "70.178.192.166",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-27T22:37:28Z"
     },
     {
@@ -834,6 +984,8 @@
       "nickname": "jcharopen22",
       "address": "8785 Lakewood Drive",
       "link": "108.100.218.225",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-25T18:48:04Z"
     },
     {
@@ -845,6 +997,8 @@
       "nickname": "vkenlin23",
       "address": "135 Roth Avenue",
       "link": "140.164.90.93",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-09T11:28:22Z"
     },
     {
@@ -856,6 +1010,8 @@
       "nickname": "yosbaldeston24",
       "address": "99966 Loftsgordon Circle",
       "link": "150.206.223.118",
+      "following":false,
+      "follower":false,
       "joined": "2019-08-10T15:25:33Z"
     },
     {
@@ -867,6 +1023,8 @@
       "nickname": "lfoard25",
       "address": "0 Bluejay Road",
       "link": "6.134.246.194",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-10T12:09:12Z"
     },
     {
@@ -878,6 +1036,8 @@
       "nickname": "tdeek26",
       "address": "0 Eagan Drive",
       "link": "46.54.131.130",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-15T17:35:50Z"
     },
     {
@@ -889,6 +1049,8 @@
       "nickname": "bde27",
       "address": "22255 Kensington Place",
       "link": "165.106.100.51",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-24T06:18:43Z"
     },
     {
@@ -900,6 +1062,8 @@
       "nickname": "sformoy28",
       "address": "60180 Nevada Center",
       "link": "23.112.67.182",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-09T08:57:09Z"
     },
     {
@@ -911,6 +1075,8 @@
       "nickname": "civison29",
       "address": "30 Gerald Lane",
       "link": "99.47.176.93",
+      "following":false,
+      "follower":false,
       "joined": "2020-05-12T13:13:06Z"
     },
     {
@@ -922,6 +1088,8 @@
       "nickname": "rgalfour2a",
       "address": "3704 Di Loreto Court",
       "link": "98.80.11.87",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-02T17:26:54Z"
     },
     {
@@ -933,6 +1101,8 @@
       "nickname": "nbiddlecombe2b",
       "address": "59 Red Cloud Court",
       "link": "246.121.176.174",
+      "following":false,
+      "follower":false,
       "joined": "2020-05-05T15:29:10Z"
     },
     {
@@ -944,6 +1114,8 @@
       "nickname": "jkernaghan2c",
       "address": "0 Orin Way",
       "link": "105.180.239.125",
+      "following":false,
+      "follower":false,
       "joined": "2019-10-12T02:43:41Z"
     },
     {
@@ -955,6 +1127,8 @@
       "nickname": "lmcnirlin2d",
       "address": "413 Trailsway Circle",
       "link": "37.247.44.13",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-23T06:28:56Z"
     },
     {
@@ -966,6 +1140,8 @@
       "nickname": "nrevans2e",
       "address": "87211 Graceland Point",
       "link": "121.4.109.201",
+      "following":false,
+      "follower":false,
       "joined": "2019-05-31T10:13:07Z"
     },
     {
@@ -977,6 +1153,8 @@
       "nickname": "aheavens2f",
       "address": "2 Oneill Plaza",
       "link": "0.207.198.37",
+      "following":false,
+      "follower":false,
       "joined": "2019-09-17T04:15:12Z"
     },
     {
@@ -988,6 +1166,8 @@
       "nickname": "pmachent2g",
       "address": "63 Pine View Center",
       "link": "180.226.185.243",
+      "following":false,
+      "follower":false,
       "joined": "2019-06-09T10:31:09Z"
     },
     {
@@ -999,6 +1179,8 @@
       "nickname": "clush2h",
       "address": "3 Hudson Drive",
       "link": "103.101.0.15",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-01T01:57:30Z"
     },
     {
@@ -1010,6 +1192,8 @@
       "nickname": "bpresdie2i",
       "address": "27 Talmadge Point",
       "link": "251.252.198.172",
+      "following":false,
+      "follower":false,
       "joined": "2019-05-21T01:13:21Z"
     },
     {
@@ -1021,6 +1205,8 @@
       "nickname": "vjobbing2j",
       "address": "25024 Kings Crossing",
       "link": "3.23.111.26",
+      "following":false,
+      "follower":false,
       "joined": "2020-01-10T14:41:56Z"
     },
     {
@@ -1032,6 +1218,8 @@
       "nickname": "chobbert2k",
       "address": "4 Fairview Point",
       "link": "43.231.234.12",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-10T22:43:05Z"
     },
     {
@@ -1043,6 +1231,8 @@
       "nickname": "rewen2l",
       "address": "0991 Stephen Way",
       "link": "96.243.203.127",
+      "following":false,
+      "follower":false,
       "joined": "2020-03-01T17:02:18Z"
     },
     {
@@ -1054,6 +1244,8 @@
       "nickname": "ebrunelli2m",
       "address": "6 Twin Pines Road",
       "link": "12.52.42.56",
+      "following":false,
+      "follower":false,
       "joined": "2020-04-28T14:31:13Z"
     },
     {
@@ -1065,6 +1257,8 @@
       "nickname": "adomniney2n",
       "address": "66701 Parkside Terrace",
       "link": "243.143.167.203",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-15T05:36:53Z"
     },
     {
@@ -1076,6 +1270,8 @@
       "nickname": "ebatkin2o",
       "address": "2494 Nova Plaza",
       "link": "88.120.250.127",
+      "following":false,
+      "follower":false,
       "joined": "2020-02-08T00:57:07Z"
     },
     {
@@ -1087,6 +1283,8 @@
       "nickname": "gmacdearmont2p",
       "address": "29 Menomonie Court",
       "link": "250.216.195.36",
+      "following":false,
+      "follower":false,
       "joined": "2019-12-01T19:17:39Z"
     },
     {
@@ -1098,6 +1296,8 @@
       "nickname": "pparry2q",
       "address": "25 Doe Crossing Drive",
       "link": "48.53.160.206",
+      "following":false,
+      "follower":false,
       "joined": "2019-11-22T03:08:33Z"
     },
     {
@@ -1109,6 +1309,8 @@
       "nickname": "lcowdrey2r",
       "address": "585 Straubel Center",
       "link": "72.214.82.158",
+      "following":false,
+      "follower":false,
       "joined": "2019-07-20T09:32:37Z"
     },
     [
@@ -1121,6 +1323,8 @@
         "nickname": "bphonix0",
         "address": "9 Riverside Point",
         "link": "31.0.199.123",
+        "following":false,
+        "follower":false,
         "joined": "2020-05-03T14:39:34Z"
       },
       {
@@ -1132,6 +1336,8 @@
         "nickname": "egeerits1",
         "address": "43091 Forest Plaza",
         "link": "97.206.29.52",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-22T09:07:08Z"
       },
       {
@@ -1143,6 +1349,8 @@
         "nickname": "lsabban2",
         "address": "66685 Fairview Crossing",
         "link": "58.17.157.174",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-28T02:37:59Z"
       },
       {
@@ -1154,6 +1362,8 @@
         "nickname": "hdziwisz3",
         "address": "24234 Canary Pass",
         "link": "93.76.73.178",
+        "following":false,
+        "follower":false,
         "joined": "2019-06-12T11:53:22Z"
       },
       {
@@ -1165,6 +1375,8 @@
         "nickname": "zblackler4",
         "address": "66104 Steensland Circle",
         "link": "137.234.136.127",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-23T16:23:24Z"
       },
       {
@@ -1176,6 +1388,8 @@
         "nickname": "echarke5",
         "address": "500 Jenna Park",
         "link": "129.43.229.181",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-26T16:19:47Z"
       },
       {
@@ -1187,6 +1401,8 @@
         "nickname": "rfaloon6",
         "address": "958 Doe Crossing Road",
         "link": "149.124.43.38",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-16T04:39:33Z"
       },
       {
@@ -1198,6 +1414,8 @@
         "nickname": "lcamerati7",
         "address": "3 Vermont Place",
         "link": "7.236.126.253",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-18T05:22:26Z"
       },
       {
@@ -1209,6 +1427,8 @@
         "nickname": "ldawtre8",
         "address": "285 Mifflin Lane",
         "link": "16.121.105.107",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-12T19:20:01Z"
       },
       {
@@ -1220,6 +1440,8 @@
         "nickname": "mwortt9",
         "address": "3399 Ludington Avenue",
         "link": "151.9.104.79",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-11T16:47:58Z"
       },
       {
@@ -1231,6 +1453,8 @@
         "nickname": "rkelleta",
         "address": "94 Fremont Place",
         "link": "240.131.73.0",
+        "following":false,
+        "follower":false,
         "joined": "2019-05-22T02:47:03Z"
       },
       {
@@ -1242,6 +1466,8 @@
         "nickname": "rlohoarb",
         "address": "3 Hollow Ridge Park",
         "link": "142.193.167.33",
+        "following":false,
+        "follower":false,
         "joined": "2019-06-17T23:16:49Z"
       },
       {
@@ -1253,6 +1479,8 @@
         "nickname": "cdeboickc",
         "address": "6 Sachtjen Street",
         "link": "114.161.246.192",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-07T08:14:58Z"
       },
       {
@@ -1264,6 +1492,8 @@
         "nickname": "mstoded",
         "address": "6955 Lyons Place",
         "link": "37.162.218.209",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-16T06:35:18Z"
       },
       {
@@ -1275,6 +1505,8 @@
         "nickname": "mgerardeauxe",
         "address": "2 Green Hill",
         "link": "216.134.20.99",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-02T06:37:42Z"
       },
       {
@@ -1286,6 +1518,8 @@
         "nickname": "kthomessonf",
         "address": "995 Vernon Court",
         "link": "228.77.128.140",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-29T09:48:14Z"
       },
       {
@@ -1297,6 +1531,8 @@
         "nickname": "msteuartg",
         "address": "8911 2nd Crossing",
         "link": "198.90.48.170",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-13T12:37:16Z"
       },
       {
@@ -1308,6 +1544,8 @@
         "nickname": "mreggianih",
         "address": "9078 Hovde Avenue",
         "link": "2.137.6.147",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-29T08:50:19Z"
       },
       {
@@ -1319,6 +1557,8 @@
         "nickname": "dmuffitti",
         "address": "3762 Lakewood Street",
         "link": "72.33.250.226",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-23T17:56:26Z"
       },
       {
@@ -1330,6 +1570,8 @@
         "nickname": "hdumphriesj",
         "address": "7639 Spohn Avenue",
         "link": "74.102.44.31",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-06T01:37:58Z"
       },
       {
@@ -1341,6 +1583,8 @@
         "nickname": "zcotsfordk",
         "address": "07 Meadow Valley Alley",
         "link": "14.244.122.40",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-14T15:50:46Z"
       },
       {
@@ -1352,6 +1596,8 @@
         "nickname": "jfoulgerl",
         "address": "09116 Buell Street",
         "link": "139.107.221.144",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-16T01:12:39Z"
       },
       {
@@ -1363,6 +1609,8 @@
         "nickname": "glem",
         "address": "3912 Sloan Hill",
         "link": "75.53.28.16",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-06T13:35:11Z"
       },
       {
@@ -1374,6 +1622,8 @@
         "nickname": "gibann",
         "address": "10 Brown Junction",
         "link": "218.80.71.236",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-22T09:47:22Z"
       },
       {
@@ -1385,6 +1635,8 @@
         "nickname": "tofiellyo",
         "address": "48382 Manley Junction",
         "link": "168.33.156.252",
+        "following":false,
+        "follower":false,
         "joined": "2019-06-22T21:36:11Z"
       },
       {
@@ -1396,6 +1648,8 @@
         "nickname": "mpitrollop",
         "address": "72 Cottonwood Alley",
         "link": "88.146.203.71",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-24T21:45:14Z"
       },
       {
@@ -1407,6 +1661,8 @@
         "nickname": "ckingslandq",
         "address": "8 Dorton Circle",
         "link": "26.140.9.136",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-26T04:27:23Z"
       },
       {
@@ -1418,6 +1674,8 @@
         "nickname": "amawtusr",
         "address": "43352 Melody Alley",
         "link": "203.153.29.44",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-20T13:45:41Z"
       },
       {
@@ -1429,6 +1687,8 @@
         "nickname": "amackeoghs",
         "address": "36 Parkside Plaza",
         "link": "5.106.253.189",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-26T15:10:14Z"
       },
       {
@@ -1440,6 +1700,8 @@
         "nickname": "dailmert",
         "address": "03056 Waubesa Place",
         "link": "131.152.21.207",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-10T18:30:40Z"
       },
       {
@@ -1451,6 +1713,8 @@
         "nickname": "mmegaineyu",
         "address": "7186 Hanover Point",
         "link": "249.175.51.109",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-30T22:37:30Z"
       },
       {
@@ -1462,6 +1726,8 @@
         "nickname": "mbrooksv",
         "address": "9 Randy Center",
         "link": "223.15.158.148",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-14T20:54:20Z"
       },
       {
@@ -1473,6 +1739,8 @@
         "nickname": "pberickw",
         "address": "516 Lighthouse Bay Terrace",
         "link": "5.202.84.17",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-13T12:43:56Z"
       },
       {
@@ -1484,6 +1752,8 @@
         "nickname": "gpaikex",
         "address": "658 Dexter Drive",
         "link": "106.15.76.218",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-25T20:41:49Z"
       },
       {
@@ -1495,6 +1765,8 @@
         "nickname": "amaestroy",
         "address": "56711 Kensington Drive",
         "link": "54.178.114.142",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-13T18:07:41Z"
       },
       {
@@ -1506,6 +1778,8 @@
         "nickname": "dmoutrayz",
         "address": "676 Goodland Way",
         "link": "60.160.95.139",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-27T18:45:27Z"
       },
       {
@@ -1517,6 +1791,8 @@
         "nickname": "mwallicker10",
         "address": "26 Sachtjen Plaza",
         "link": "131.117.79.18",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-16T02:48:39Z"
       },
       {
@@ -1528,6 +1804,8 @@
         "nickname": "bstolte11",
         "address": "42830 Hauk Plaza",
         "link": "140.136.63.82",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-20T01:47:14Z"
       },
       {
@@ -1539,6 +1817,8 @@
         "nickname": "jrizzillo12",
         "address": "2185 Graedel Park",
         "link": "147.189.90.176",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-15T06:31:09Z"
       },
       {
@@ -1550,6 +1830,8 @@
         "nickname": "foheyne13",
         "address": "8 Orin Junction",
         "link": "246.147.201.78",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-29T15:08:10Z"
       },
       {
@@ -1561,6 +1843,8 @@
         "nickname": "kmccard14",
         "address": "2342 Lerdahl Road",
         "link": "170.188.104.163",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-21T18:48:23Z"
       },
       {
@@ -1572,6 +1856,8 @@
         "nickname": "rspilsbury15",
         "address": "789 Corry Plaza",
         "link": "253.69.69.178",
+        "following":false,
+        "follower":false,
         "joined": "2020-05-12T01:11:39Z"
       },
       {
@@ -1583,6 +1869,8 @@
         "nickname": "kbaldazzi16",
         "address": "6 Scofield Trail",
         "link": "98.219.133.11",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-23T07:18:38Z"
       },
       {
@@ -1594,6 +1882,8 @@
         "nickname": "lcrolly17",
         "address": "40669 Continental Street",
         "link": "152.68.155.112",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-14T15:25:19Z"
       },
       {
@@ -1605,6 +1895,8 @@
         "nickname": "gshird18",
         "address": "20 Magdeline Alley",
         "link": "212.146.201.134",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-09T01:48:38Z"
       },
       {
@@ -1616,6 +1908,8 @@
         "nickname": "tpassy19",
         "address": "4742 Little Fleur Crossing",
         "link": "153.77.180.61",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-28T19:22:12Z"
       },
       {
@@ -1627,6 +1921,8 @@
         "nickname": "rswallwell1a",
         "address": "28 Arrowood Way",
         "link": "214.74.84.229",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-06T23:38:14Z"
       },
       {
@@ -1638,6 +1934,8 @@
         "nickname": "mstripling1b",
         "address": "2369 Prairie Rose Alley",
         "link": "234.227.223.27",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-13T18:30:28Z"
       },
       {
@@ -1649,6 +1947,8 @@
         "nickname": "ljahnig1c",
         "address": "4850 Fairfield Drive",
         "link": "171.16.250.246",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-20T00:07:07Z"
       },
       {
@@ -1660,6 +1960,8 @@
         "nickname": "vmitton1d",
         "address": "2568 Chinook Pass",
         "link": "167.247.95.138",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-06T00:50:24Z"
       },
       {
@@ -1671,6 +1973,8 @@
         "nickname": "acutts1e",
         "address": "8 Surrey Crossing",
         "link": "0.153.253.46",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-29T12:35:42Z"
       },
       {
@@ -1682,6 +1986,8 @@
         "nickname": "sstuckes1f",
         "address": "368 Drewry Junction",
         "link": "108.124.242.188",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-30T16:34:21Z"
       },
       {
@@ -1693,6 +1999,8 @@
         "nickname": "rde1g",
         "address": "3724 Tennyson Pass",
         "link": "81.188.220.246",
+        "following":false,
+        "follower":false,
         "joined": "2019-05-27T18:20:12Z"
       },
       {
@@ -1704,6 +2012,8 @@
         "nickname": "jdomke1h",
         "address": "881 Warbler Road",
         "link": "92.80.97.24",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-20T06:32:58Z"
       },
       {
@@ -1715,6 +2025,8 @@
         "nickname": "bmanifield1i",
         "address": "08 Anthes Junction",
         "link": "46.1.119.19",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-14T04:52:23Z"
       },
       {
@@ -1726,6 +2038,8 @@
         "nickname": "afagence1j",
         "address": "99 Westport Street",
         "link": "153.188.13.143",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-11T22:57:49Z"
       },
       {
@@ -1737,6 +2051,8 @@
         "nickname": "sdecruse1k",
         "address": "3771 Sycamore Drive",
         "link": "91.129.44.199",
+        "following":false,
+        "follower":false,
         "joined": "2020-04-05T03:56:59Z"
       },
       {
@@ -1748,6 +2064,8 @@
         "nickname": "jsavaage1l",
         "address": "71796 Forest Dale Avenue",
         "link": "168.251.29.172",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-19T04:21:39Z"
       },
       {
@@ -1759,6 +2077,8 @@
         "nickname": "ffraser1m",
         "address": "51 Judy Trail",
         "link": "84.241.203.192",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-17T19:19:08Z"
       },
       {
@@ -1770,6 +2090,8 @@
         "nickname": "adurrett1n",
         "address": "6158 Anzinger Pass",
         "link": "229.194.2.161",
+        "following":false,
+        "follower":false,
         "joined": "2020-04-10T03:13:36Z"
       },
       {
@@ -1781,6 +2103,8 @@
         "nickname": "mpottiphar1o",
         "address": "42411 Morningstar Terrace",
         "link": "136.188.91.62",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-21T20:25:24Z"
       },
       {
@@ -1792,6 +2116,8 @@
         "nickname": "gbareham1p",
         "address": "89301 Redwing Way",
         "link": "241.154.80.64",
+        "following":false,
+        "follower":false,
         "joined": "2019-05-29T11:20:30Z"
       },
       {
@@ -1803,6 +2129,8 @@
         "nickname": "belsworth1q",
         "address": "601 Northport Parkway",
         "link": "205.147.48.156",
+        "following":false,
+        "follower":false,
         "joined": "2020-05-09T08:38:08Z"
       },
       {
@@ -1814,6 +2142,8 @@
         "nickname": "ckrol1r",
         "address": "15118 Jenifer Crossing",
         "link": "178.134.41.233",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-24T15:52:03Z"
       },
       {
@@ -1825,6 +2155,8 @@
         "nickname": "ashewan1s",
         "address": "919 Johnson Place",
         "link": "162.33.108.224",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-24T11:22:04Z"
       },
       {
@@ -1836,6 +2168,8 @@
         "nickname": "otweedle1t",
         "address": "1497 Bunker Hill Court",
         "link": "15.174.12.143",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-14T22:38:36Z"
       },
       {
@@ -1847,6 +2181,8 @@
         "nickname": "dtupie1u",
         "address": "03981 Hintze Hill",
         "link": "165.49.21.86",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-10T16:47:16Z"
       },
       {
@@ -1858,6 +2194,8 @@
         "nickname": "rspaule1v",
         "address": "44 Hudson Alley",
         "link": "251.85.167.76",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-29T23:25:08Z"
       },
       {
@@ -1869,6 +2207,8 @@
         "nickname": "rroston1w",
         "address": "9364 International Plaza",
         "link": "121.3.168.153",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-06T17:24:45Z"
       },
       {
@@ -1880,6 +2220,8 @@
         "nickname": "hrydings1x",
         "address": "4476 Lillian Street",
         "link": "47.143.126.39",
+        "following":false,
+        "follower":false,
         "joined": "2019-06-26T01:05:18Z"
       },
       {
@@ -1891,6 +2233,8 @@
         "nickname": "arobarts1y",
         "address": "2 Reinke Drive",
         "link": "145.222.56.63",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-16T01:49:47Z"
       },
       {
@@ -1902,6 +2246,8 @@
         "nickname": "bmcowan1z",
         "address": "78 Morrow Street",
         "link": "127.119.31.248",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-17T08:45:06Z"
       },
       {
@@ -1913,6 +2259,8 @@
         "nickname": "mgreaser20",
         "address": "73 School Court",
         "link": "70.93.181.133",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-26T17:08:14Z"
       },
       {
@@ -1924,6 +2272,8 @@
         "nickname": "sbuggy21",
         "address": "20 Becker Road",
         "link": "14.61.48.123",
+        "following":false,
+        "follower":false,
         "joined": "2020-01-27T02:52:08Z"
       },
       {
@@ -1935,6 +2285,8 @@
         "nickname": "bkynton22",
         "address": "90007 Mallory Center",
         "link": "160.167.12.133",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-27T20:26:25Z"
       },
       {
@@ -1946,6 +2298,8 @@
         "nickname": "jfitzroy23",
         "address": "14 Waxwing Court",
         "link": "40.153.120.199",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-02T00:58:48Z"
       },
       {
@@ -1957,6 +2311,8 @@
         "nickname": "clanmeid24",
         "address": "5569 Kensington Circle",
         "link": "25.93.149.24",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-06T02:01:00Z"
       },
       {
@@ -1968,6 +2324,8 @@
         "nickname": "hkollaschek25",
         "address": "6469 Pond Drive",
         "link": "212.105.54.179",
+        "following":false,
+        "follower":false,
         "joined": "2019-05-20T01:20:05Z"
       },
       {
@@ -1979,6 +2337,8 @@
         "nickname": "ajob26",
         "address": "789 Thierer Place",
         "link": "163.40.154.81",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-22T03:41:21Z"
       },
       {
@@ -1990,6 +2350,8 @@
         "nickname": "ddmitr27",
         "address": "6749 Lake View Point",
         "link": "184.8.157.86",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-07T11:45:37Z"
       },
       {
@@ -2001,6 +2363,8 @@
         "nickname": "ssarfas28",
         "address": "9 Stuart Parkway",
         "link": "83.220.249.6",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-14T20:37:26Z"
       },
       {
@@ -2012,6 +2376,8 @@
         "nickname": "ppatrone29",
         "address": "00 Helena Crossing",
         "link": "70.54.151.227",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-29T19:11:25Z"
       },
       {
@@ -2023,6 +2389,8 @@
         "nickname": "wdjurevic2a",
         "address": "0 Redwing Court",
         "link": "246.38.224.230",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-18T21:48:21Z"
       },
       {
@@ -2034,6 +2402,8 @@
         "nickname": "fwrey2b",
         "address": "8 East Drive",
         "link": "12.188.221.12",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-18T07:11:32Z"
       },
       {
@@ -2045,6 +2415,8 @@
         "nickname": "spiccop2c",
         "address": "3 Logan Court",
         "link": "230.54.3.33",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-17T05:15:32Z"
       },
       {
@@ -2056,6 +2428,8 @@
         "nickname": "hcubley2d",
         "address": "8169 Cordelia Trail",
         "link": "201.173.240.113",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-28T05:57:48Z"
       },
       {
@@ -2067,6 +2441,8 @@
         "nickname": "fcastell2e",
         "address": "7 Rigney Road",
         "link": "214.80.132.12",
+        "following":false,
+        "follower":false,
         "joined": "2019-09-22T02:24:32Z"
       },
       {
@@ -2078,6 +2454,8 @@
         "nickname": "ggamble2f",
         "address": "492 Victoria Center",
         "link": "153.16.134.22",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-27T12:50:40Z"
       },
       {
@@ -2089,6 +2467,8 @@
         "nickname": "jsimonds2g",
         "address": "12 Elmside Circle",
         "link": "216.85.159.197",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-11T11:10:37Z"
       },
       {
@@ -2100,6 +2480,8 @@
         "nickname": "ckidstoun2h",
         "address": "9 Johnson Court",
         "link": "37.249.183.97",
+        "following":false,
+        "follower":false,
         "joined": "2020-02-20T06:30:17Z"
       },
       {
@@ -2111,6 +2493,8 @@
         "nickname": "bwillder2i",
         "address": "3426 Paget Park",
         "link": "252.214.212.236",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-24T06:12:53Z"
       },
       {
@@ -2122,6 +2506,8 @@
         "nickname": "ccolquite2j",
         "address": "501 Atwood Plaza",
         "link": "181.239.46.167",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-29T15:29:24Z"
       },
       {
@@ -2133,6 +2519,8 @@
         "nickname": "lbaudy2k",
         "address": "12 Rusk Drive",
         "link": "201.196.57.202",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-15T21:49:59Z"
       },
       {
@@ -2144,6 +2532,8 @@
         "nickname": "fnussey2l",
         "address": "3814 Gerald Plaza",
         "link": "241.150.8.100",
+        "following":false,
+        "follower":false,
         "joined": "2019-07-02T18:05:16Z"
       },
       {
@@ -2155,6 +2545,8 @@
         "nickname": "bdrabble2m",
         "address": "9 Brown Street",
         "link": "180.11.139.191",
+        "following":false,
+        "follower":false,
         "joined": "2019-11-24T22:34:20Z"
       },
       {
@@ -2166,6 +2558,8 @@
         "nickname": "klaffoleylane2n",
         "address": "69 Dennis Hill",
         "link": "140.225.18.253",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-01T18:43:40Z"
       },
       {
@@ -2177,6 +2571,8 @@
         "nickname": "gkhilkov2o",
         "address": "9 Shoshone Center",
         "link": "154.209.182.42",
+        "following":false,
+        "follower":false,
         "joined": "2019-10-13T14:02:10Z"
       },
       {
@@ -2188,6 +2584,8 @@
         "nickname": "hsyers2p",
         "address": "65 Stone Corner Terrace",
         "link": "62.43.216.210",
+        "following":false,
+        "follower":false,
         "joined": "2019-12-12T11:47:52Z"
       },
       {
@@ -2199,6 +2597,8 @@
         "nickname": "cpitchford2q",
         "address": "88 Straubel Lane",
         "link": "15.78.78.66",
+        "following":false,
+        "follower":false,
         "joined": "2020-03-16T12:09:52Z"
       },
       {
@@ -2210,892 +2610,11 @@
         "nickname": "mdavidovics2r",
         "address": "1 Vernon Alley",
         "link": "124.189.118.181",
+        "following":false,
+        "follower":false,
         "joined": "2019-08-27T20:36:47Z"
       }
     ]
   ],
-  "tweets": [  ],
-  "following": [
-    {
-      "id": "868a67dc-df50-4fe8-aa07-7190f6537936",
-      "users": [
-        {
-          "id": "d842b2a6-5904-4e2c-a8c6-ee9752629213",
-          "imageProfile": "http://dummyimage.com/298x385.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1143x295.png/5fa2dd/ffffff",
-          "name": "Estrellita Stammler",
-          "bio": "Infct of amniotic sac and membrns, unsp, third tri, fetus 4",
-          "nickname": "estammler0",
-          "address": "0698 Kensington Crossing",
-          "link": "12.30.27.156",
-          "joined": "2019-10-31T02:14:39Z"
-        },
-        {
-          "id": "ac2fc30b-9c92-4a9e-b799-3aab019711f7",
-          "imageProfile": "http://dummyimage.com/291x373.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1064x290.bmp/ff4444/ffffff",
-          "name": "Diarmid Wychard",
-          "bio": "Superficial frostbite of left hip and thigh, init encntr",
-          "nickname": "dwychardc",
-          "address": "7644 Orin Avenue",
-          "link": "56.166.146.171",
-          "joined": "2019-07-30T02:57:06Z"
-        },
-        {
-          "id": "13c6f31c-0fec-4419-9a75-85c5dd11c418",
-          "imageProfile": "http://dummyimage.com/282x363.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1001x205.png/cc0000/ffffff",
-          "name": "Ring Claiden",
-          "bio": "Person outsd car inj in clsn w pk-up truck nontraf, sequela",
-          "nickname": "rclaidend",
-          "address": "1 Lillian Avenue",
-          "link": "207.97.198.44",
-          "joined": "2019-11-17T16:19:18Z"
-        },
-        {
-          "id": "0007ddfa-303d-459f-ad28-4d68f9f32137",
-          "imageProfile": "http://dummyimage.com/269x347.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1136x240.jpg/dddddd/000000",
-          "name": "Cherri Jime",
-          "bio": "Drown due to being thrown overboard by motion of merch ship",
-          "nickname": "cjimee",
-          "address": "3610 Novick Crossing",
-          "link": "8.100.72.2",
-          "joined": "2020-01-26T20:13:39Z"
-        },
-        {
-          "id": "99b90320-ece5-48f2-94d0-06f3ec00891d",
-          "imageProfile": "http://dummyimage.com/296x398.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1062x267.png/5fa2dd/ffffff",
-          "name": "Danette Allanby",
-          "bio": "Fx oth prt scapula, unsp shoulder, subs for fx w routn heal",
-          "nickname": "dallanbyf",
-          "address": "6859 Forest Dale Way",
-          "link": "170.69.42.142",
-          "joined": "2019-06-29T00:54:00Z"
-        },
-        {
-          "id": "d0ca41e6-6866-464e-a47d-3f4d8775732b",
-          "imageProfile": "http://dummyimage.com/298x383.bmp/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1009x232.png/dddddd/000000",
-          "name": "Prissie Domingues",
-          "bio": "Poisoning by diagnostic agents, accidental, subs",
-          "nickname": "pdominguesg",
-          "address": "266 Chinook Court",
-          "link": "217.130.119.234",
-          "joined": "2019-07-04T00:26:02Z"
-        },
-        {
-          "id": "4247b559-b32e-44a6-995f-69b82b0e77e2",
-          "imageProfile": "http://dummyimage.com/290x373.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1166x258.bmp/ff4444/ffffff",
-          "name": "Derrik Buckbee",
-          "bio": "Nondisp fx of low epiphy (separation) of unsp femr, 7thJ",
-          "nickname": "dbuckbeeh",
-          "address": "86 Colorado Place",
-          "link": "195.239.38.75",
-          "joined": "2019-05-29T04:19:17Z"
-        },
-        {
-          "id": "c20220b4-7538-4930-b417-c21ff50893cd",
-          "imageProfile": "http://dummyimage.com/269x385.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1089x289.jpg/dddddd/000000",
-          "name": "Darleen Burder",
-          "bio": "Toxic effect of chlorofluorocarbons, accidental, subs",
-          "nickname": "dburderi",
-          "address": "86416 Lawn Pass",
-          "link": "97.164.58.115",
-          "joined": "2020-03-02T03:19:44Z"
-        },
-        {
-          "id": "4f5f2753-da1d-4fa4-bc79-d99c224619d3",
-          "imageProfile": "http://dummyimage.com/264x317.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1078x268.png/5fa2dd/ffffff",
-          "name": "Tabby Honsch",
-          "bio": "Unsp fx right patella, subs for opn fx type I/2 w malunion",
-          "nickname": "thonschj",
-          "address": "776 Graceland Pass",
-          "link": "6.199.137.153",
-          "joined": "2019-07-09T21:50:52Z"
-        },
-        {
-          "id": "3389fff7-517e-431e-90cd-a8c7357a64ca",
-          "imageProfile": "http://dummyimage.com/263x373.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1023x215.bmp/5fa2dd/ffffff",
-          "name": "Loise Buttrick",
-          "bio": "Follicular lymphoma grade I, extrnod and solid organ sites",
-          "nickname": "lbuttrickk",
-          "address": "513 Green Ridge Park",
-          "link": "223.65.88.35",
-          "joined": "2020-01-15T02:21:40Z"
-        },
-        {
-          "id": "98cb6cd4-e6aa-4604-8f55-e6468121934d",
-          "imageProfile": "http://dummyimage.com/253x368.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1044x300.jpg/ff4444/ffffff",
-          "name": "Dominic Nafzger",
-          "bio": "Nondisp fx of posterior process of unsp talus, sequela",
-          "nickname": "dnafzgerl",
-          "address": "1704 Tennessee Avenue",
-          "link": "44.200.42.104",
-          "joined": "2019-12-14T10:48:53Z"
-        },
-        {
-          "id": "ccbff61b-92bc-4dfe-92fb-42ac5edabe79",
-          "imageProfile": "http://dummyimage.com/276x367.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1110x203.bmp/dddddd/000000",
-          "name": "Nerissa Simonel",
-          "bio": "Oth benign neoplasm skin/ right upper limb, inc shoulder",
-          "nickname": "nsimonelm",
-          "address": "764 Marcy Alley",
-          "link": "166.20.121.192",
-          "joined": "2019-07-10T02:48:19Z"
-        },
-        {
-          "id": "67d47f88-ec23-4d86-9d7f-1afd1b7db5c4",
-          "imageProfile": "http://dummyimage.com/260x391.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1020x200.jpg/dddddd/000000",
-          "name": "Corina Samber",
-          "bio": "Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, init",
-          "nickname": "csambern",
-          "address": "1203 Butternut Parkway",
-          "link": "96.191.62.117",
-          "joined": "2020-02-22T08:15:02Z"
-        },
-        {
-          "id": "c7840644-232a-448d-96de-e015d0bd1375",
-          "imageProfile": "http://dummyimage.com/300x305.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1097x281.png/dddddd/000000",
-          "name": "Lu Ball",
-          "bio": "Pasngr in pk-up/van inj in clsn w 2/3-whl mv in traf, subs",
-          "nickname": "lballo",
-          "address": "528 Starling Hill",
-          "link": "203.14.46.89",
-          "joined": "2020-03-31T23:06:49Z"
-        },
-        {
-          "id": "4ad94f4a-4bd7-4e91-b02e-169819df969e",
-          "imageProfile": "http://dummyimage.com/278x309.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1100x212.bmp/cc0000/ffffff",
-          "name": "Aluino Krzysztofiak",
-          "bio": "Displ commnt fx shaft of l femr, 7thF",
-          "nickname": "akrzysztofiakp",
-          "address": "1 Graceland Street",
-          "link": "55.204.138.53",
-          "joined": "2019-08-09T20:22:46Z"
-        },
-        {
-          "id": "d8f4c2e0-2044-43c3-a7e8-0f62e3835a03",
-          "imageProfile": "http://dummyimage.com/294x312.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1069x292.jpg/5fa2dd/ffffff",
-          "name": "Elsinore Iddon",
-          "bio": "Disp fx of prox phalanx of r idx fngr, 7thD",
-          "nickname": "eiddonq",
-          "address": "96 Stang Parkway",
-          "link": "94.14.91.105",
-          "joined": "2019-12-01T02:06:41Z"
-        },
-        {
-          "id": "7fdc9f16-319c-4475-9334-30314539ab6a",
-          "imageProfile": "http://dummyimage.com/300x372.bmp/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1135x200.png/ff4444/ffffff",
-          "name": "Sidonia Buxcey",
-          "bio": "Other superficial bite of ankle, right ankle",
-          "nickname": "sbuxceyr",
-          "address": "06717 Welch Place",
-          "link": "97.38.38.33",
-          "joined": "2020-04-20T18:57:45Z"
-        },
-        {
-          "id": "e585b433-094a-450d-97dd-c1f6751ea200",
-          "imageProfile": "http://dummyimage.com/251x320.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1008x297.png/5fa2dd/ffffff",
-          "name": "Vi Huggins",
-          "bio": "Vis def/sptl nglct following cerebral infarction",
-          "nickname": "vhugginss",
-          "address": "1143 Anniversary Park",
-          "link": "113.76.118.205",
-          "joined": "2020-05-04T13:56:45Z"
-        },
-        {
-          "id": "6b4ddca8-d018-4981-81ca-629ae2fb1184",
-          "imageProfile": "http://dummyimage.com/266x349.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1129x283.png/5fa2dd/ffffff",
-          "name": "Lindsey Toplis",
-          "bio": "Lacerat intrns musc/fasc/tend r thm at wrs/hnd lv, sequela",
-          "nickname": "ltoplist",
-          "address": "0 Loomis Street",
-          "link": "46.185.238.158",
-          "joined": "2019-10-28T06:03:05Z"
-        },
-        {
-          "id": "c7946403-9d25-41f1-8079-4a86041d19f3",
-          "imageProfile": "http://dummyimage.com/259x303.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1148x230.jpg/ff4444/ffffff",
-          "name": "Moyna Chese",
-          "bio": "Type III traum spondylolysis of 5th cervcal vert, 7thK",
-          "nickname": "mcheseu",
-          "address": "0458 Stone Corner Trail",
-          "link": "206.72.248.141",
-          "joined": "2019-08-25T05:59:29Z"
-        },
-        {
-          "id": "4a71394d-4064-4d48-8b2a-395aa0d0aef8",
-          "imageProfile": "http://dummyimage.com/277x320.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1128x262.jpg/5fa2dd/ffffff",
-          "name": "Willy Janik",
-          "bio": "Interstitial myositis, right shoulder",
-          "nickname": "wjanikv",
-          "address": "72 Heath Court",
-          "link": "146.83.201.56",
-          "joined": "2020-03-08T05:34:27Z"
-        },
-        {
-          "id": "9ee4bd30-6735-4971-8219-8a3399a6f515",
-          "imageProfile": "http://dummyimage.com/276x367.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1101x261.jpg/cc0000/ffffff",
-          "name": "Ikey Dwerryhouse",
-          "bio": "Unsp car occ injured in clsn w pick-up truck in traf, subs",
-          "nickname": "idwerryhousew",
-          "address": "5256 Oriole Road",
-          "link": "47.77.183.186",
-          "joined": "2020-05-06T22:20:27Z"
-        },
-        {
-          "id": "a41daf48-ff2c-46bb-abf6-ae8e6c6b4f48",
-          "imageProfile": "http://dummyimage.com/269x324.bmp/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1038x232.bmp/ff4444/ffffff",
-          "name": "Monroe Hansod",
-          "bio": "Poisoning by inhaled anesthetics, assault",
-          "nickname": "mhansodx",
-          "address": "3447 Forest Run Point",
-          "link": "248.22.172.48",
-          "joined": "2019-07-30T01:35:33Z"
-        },
-        {
-          "id": "635550f8-5b60-4656-8d71-e6928cc411d2",
-          "imageProfile": "http://dummyimage.com/257x342.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1070x268.bmp/cc0000/ffffff",
-          "name": "Marcos Devas",
-          "bio": "Drowning and submersion due to fall off sailboat",
-          "nickname": "mdevasy",
-          "address": "96 Cascade Park",
-          "link": "206.106.208.37",
-          "joined": "2019-08-09T04:08:43Z"
-        },
-        {
-          "id": "608cd89e-f5de-4749-b0c3-5f00e255c9b2",
-          "imageProfile": "http://dummyimage.com/257x321.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1056x271.jpg/cc0000/ffffff",
-          "name": "Estel Walters",
-          "bio": "Chronic hepatic failure with coma",
-          "nickname": "ewaltersz",
-          "address": "1 Pierstorff Lane",
-          "link": "174.119.27.89",
-          "joined": "2019-11-28T19:09:13Z"
-        },
-        {
-          "id": "e4687ba8-556d-4ca4-9c37-3cd8d7becff8",
-          "imageProfile": "http://dummyimage.com/296x337.bmp/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1147x202.bmp/cc0000/ffffff",
-          "name": "Glynn Fenton",
-          "bio": "Placentitis, third trimester, fetus 1",
-          "nickname": "gfenton10",
-          "address": "81617 Northland Pass",
-          "link": "114.241.85.167",
-          "joined": "2019-08-24T07:20:13Z"
-        },
-        {
-          "id": "686b1565-e6b7-49dd-b5e7-828558020525",
-          "imageProfile": "http://dummyimage.com/274x325.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1062x263.bmp/dddddd/000000",
-          "name": "Breanne Gislebert",
-          "bio": "Anterior subluxation of left sternoclavicular joint, init",
-          "nickname": "bgislebert11",
-          "address": "989 Maple Center",
-          "link": "128.167.5.226",
-          "joined": "2020-04-05T03:17:20Z"
-        },
-        {
-          "id": "5db0556f-16eb-4f11-8e45-b64a62ed5ccc",
-          "imageProfile": "http://dummyimage.com/274x379.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1146x214.jpg/cc0000/ffffff",
-          "name": "Stella Aleksankin",
-          "bio": "Contact with unspecified machinery, sequela",
-          "nickname": "saleksankin12",
-          "address": "6404 Mendota Point",
-          "link": "123.68.68.85",
-          "joined": "2020-04-28T12:58:40Z"
-        },
-        {
-          "id": "8975d537-7091-40a1-a68d-79e44b3c1c2b",
-          "imageProfile": "http://dummyimage.com/283x319.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1024x207.jpg/5fa2dd/ffffff",
-          "name": "Sonja Blenkharn",
-          "bio": "Occ of rail trn/veh injured by fall from rail trn/veh, init",
-          "nickname": "sblenkharn13",
-          "address": "18256 Bartillon Terrace",
-          "link": "132.200.19.115",
-          "joined": "2020-03-17T14:32:31Z"
-        },
-        {
-          "id": "f6bbd3d2-a1bc-42cc-83be-ac60254df2d0",
-          "imageProfile": "http://dummyimage.com/298x330.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1025x298.png/cc0000/ffffff",
-          "name": "Edlin Stopford",
-          "bio": "Unspecified injury of bronchus, unspecified, init encntr",
-          "nickname": "estopford14",
-          "address": "0468 Pearson Hill",
-          "link": "163.195.222.148",
-          "joined": "2019-12-13T13:38:57Z"
-        },
-        {
-          "id": "f530e59e-633f-4b01-8011-d9371e80bc8e",
-          "imageProfile": "http://dummyimage.com/280x303.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1121x271.jpg/dddddd/000000",
-          "name": "Cassie Chatres",
-          "bio": "Corrosion of second degree of left elbow, subs encntr",
-          "nickname": "cchatres15",
-          "address": "670 Springs Park",
-          "link": "217.218.112.168",
-          "joined": "2019-07-14T04:16:42Z"
-        },
-        {
-          "id": "35e3d76b-938f-4810-ba57-3843749844c8",
-          "imageProfile": "http://dummyimage.com/255x392.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1063x232.bmp/dddddd/000000",
-          "name": "Nerty Rozzell",
-          "bio": "Contact with duck",
-          "nickname": "nrozzell16",
-          "address": "1137 Waxwing Hill",
-          "link": "79.150.208.97",
-          "joined": "2020-03-08T18:57:21Z"
-        },
-        {
-          "id": "22f3feec-bd59-44ca-8891-2c35f00618c2",
-          "imageProfile": "http://dummyimage.com/266x321.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1101x299.png/5fa2dd/ffffff",
-          "name": "Marian Lorriman",
-          "bio": "Corrosion of unsp deg mult sites of left wrs/hnd, init",
-          "nickname": "mlorriman17",
-          "address": "1334 Dunning Street",
-          "link": "186.156.228.96",
-          "joined": "2019-07-08T11:43:16Z"
-        },
-        {
-          "id": "cf7a30e8-b6b4-46ca-8bfd-d65b8f7383c3",
-          "imageProfile": "http://dummyimage.com/270x332.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1027x276.png/ff4444/ffffff",
-          "name": "Mattias Culpin",
-          "bio": "Injury of conjunctiva and corneal abrasion w/o fb, unsp eye",
-          "nickname": "mculpin18",
-          "address": "38 Farmco Place",
-          "link": "12.220.164.125",
-          "joined": "2019-05-31T15:52:28Z"
-        }
-      ]
-    }
-  ],
-  "followers": [
-    {
-      "id": "868a67dc-df50-4fe8-aa07-7190f6537936",
-      "users": [
-        {
-          "id": "d842b2a6-5904-4e2c-a8c6-ee9752629213",
-          "imageProfile": "http://dummyimage.com/298x385.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1143x295.png/5fa2dd/ffffff",
-          "name": "Estrellita Stammler",
-          "bio": "Infct of amniotic sac and membrns, unsp, third tri, fetus 4",
-          "nickname": "estammler0",
-          "address": "0698 Kensington Crossing",
-          "link": "12.30.27.156",
-          "joined": "2019-10-31T02:14:39Z"
-        },
-        {
-          "id": "3aef7abc-c6e3-4380-b27d-2b83cba369ad",
-          "imageProfile": "http://dummyimage.com/277x340.bmp/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1143x270.bmp/5fa2dd/ffffff",
-          "name": "Rea Circuit",
-          "bio": "Colles' fx r radius, subs for opn fx type 3A/B/C w malunion",
-          "nickname": "rcircuit1",
-          "address": "9390 Garrison Point",
-          "link": "148.135.252.73",
-          "joined": "2019-07-13T22:22:23Z"
-        },
-        {
-          "id": "f88107bc-c458-4753-9583-69ddc9ab04b4",
-          "imageProfile": "http://dummyimage.com/284x309.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1166x297.jpg/ff4444/ffffff",
-          "name": "Bard Antonopoulos",
-          "bio": "Pathological fracture, unspecified ulna and radius, sequela",
-          "nickname": "bantonopoulos2",
-          "address": "00458 Milwaukee Park",
-          "link": "113.228.57.196",
-          "joined": "2020-04-30T15:54:53Z"
-        },
-        {
-          "id": "8f99e659-3751-4f22-a528-e9268295eb91",
-          "imageProfile": "http://dummyimage.com/276x325.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1179x294.jpg/cc0000/ffffff",
-          "name": "Earl Groves",
-          "bio": "Burn of unspecified degree of chest wall, sequela",
-          "nickname": "egroves3",
-          "address": "928 West Center",
-          "link": "42.187.162.251",
-          "joined": "2019-11-10T03:44:23Z"
-        },
-        {
-          "id": "980f9334-5298-4657-ad59-ddc837c6dd03",
-          "imageProfile": "http://dummyimage.com/274x348.jpg/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1094x273.jpg/ff4444/ffffff",
-          "name": "Edy Lux",
-          "bio": "Sltr-haris Type III physeal fx left metatarsal, 7thD",
-          "nickname": "elux4",
-          "address": "7 Dwight Lane",
-          "link": "168.250.170.178",
-          "joined": "2020-03-20T11:23:31Z"
-        },
-        {
-          "id": "37e74759-aed5-4552-be6e-4f15c6d5b115",
-          "imageProfile": "http://dummyimage.com/250x324.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1100x235.png/5fa2dd/ffffff",
-          "name": "Meaghan Waddingham",
-          "bio": "Insect bite of unsp external genital organs, female",
-          "nickname": "mwaddingham5",
-          "address": "55 Spenser Junction",
-          "link": "80.129.169.19",
-          "joined": "2019-08-27T21:01:51Z"
-        },
-        {
-          "id": "9fd36ad7-39d2-4680-acc9-5344d371fa01",
-          "imageProfile": "http://dummyimage.com/253x346.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1070x226.png/5fa2dd/ffffff",
-          "name": "Casey Feldharker",
-          "bio": "Unsp injury of right innominate or subclavian artery, init",
-          "nickname": "cfeldharker6",
-          "address": "64737 Northridge Trail",
-          "link": "141.53.86.52",
-          "joined": "2019-10-28T04:28:15Z"
-        },
-        {
-          "id": "1fd84f86-d85f-4c73-b2ba-df4a096c079f",
-          "imageProfile": "http://dummyimage.com/269x377.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1199x292.jpg/ff4444/ffffff",
-          "name": "Albrecht Kavanagh",
-          "bio": "Poisoning by unsp antidepressants, assault, init encntr",
-          "nickname": "akavanagh7",
-          "address": "82802 Burrows Terrace",
-          "link": "165.43.18.83",
-          "joined": "2020-05-05T20:00:12Z"
-        },
-        {
-          "id": "5db3eac8-2d87-4c09-a6ba-e5451bc0e4aa",
-          "imageProfile": "http://dummyimage.com/263x357.jpg/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1020x239.png/dddddd/000000",
-          "name": "Hillel Children",
-          "bio": "Congenital aneurysm of aorta",
-          "nickname": "hchildren8",
-          "address": "9093 Laurel Pass",
-          "link": "112.248.178.17",
-          "joined": "2019-08-06T14:21:44Z"
-        },
-        {
-          "id": "a220c420-1927-4654-8c25-f8ed1e76bf80",
-          "imageProfile": "http://dummyimage.com/281x364.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1014x286.bmp/dddddd/000000",
-          "name": "Joshia Ridding",
-          "bio": "Military operations involving explosion of marine weapons",
-          "nickname": "jridding9",
-          "address": "2208 Coleman Point",
-          "link": "238.207.156.43",
-          "joined": "2019-06-25T20:33:41Z"
-        },
-        {
-          "id": "3c2b6566-261e-4d7a-87c4-0cfed54bd97e",
-          "imageProfile": "http://dummyimage.com/290x333.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1131x290.jpg/5fa2dd/ffffff",
-          "name": "Cora McRoberts",
-          "bio": "Lacerat unsp blood vess at ank/ft level, right leg, sequela",
-          "nickname": "cmcrobertsa",
-          "address": "0260 Truax Center",
-          "link": "34.5.27.223",
-          "joined": "2019-12-08T21:05:53Z"
-        },
-        {
-          "id": "e2dd41dc-b76e-48db-abe9-aa4449a18986",
-          "imageProfile": "http://dummyimage.com/288x381.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1172x261.bmp/dddddd/000000",
-          "name": "Klarrisa Ros",
-          "bio": "Nondisp commnt fx shaft of l femr, 7thC",
-          "nickname": "krosb",
-          "address": "1 Dryden Point",
-          "link": "224.130.109.110",
-          "joined": "2019-12-12T13:19:09Z"
-        },
-        {
-          "id": "ac2fc30b-9c92-4a9e-b799-3aab019711f7",
-          "imageProfile": "http://dummyimage.com/291x373.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1064x290.bmp/ff4444/ffffff",
-          "name": "Diarmid Wychard",
-          "bio": "Superficial frostbite of left hip and thigh, init encntr",
-          "nickname": "dwychardc",
-          "address": "7644 Orin Avenue",
-          "link": "56.166.146.171",
-          "joined": "2019-07-30T02:57:06Z"
-        },
-        {
-          "id": "13c6f31c-0fec-4419-9a75-85c5dd11c418",
-          "imageProfile": "http://dummyimage.com/282x363.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1001x205.png/cc0000/ffffff",
-          "name": "Ring Claiden",
-          "bio": "Person outsd car inj in clsn w pk-up truck nontraf, sequela",
-          "nickname": "rclaidend",
-          "address": "1 Lillian Avenue",
-          "link": "207.97.198.44",
-          "joined": "2019-11-17T16:19:18Z"
-        },
-        {
-          "id": "0007ddfa-303d-459f-ad28-4d68f9f32137",
-          "imageProfile": "http://dummyimage.com/269x347.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1136x240.jpg/dddddd/000000",
-          "name": "Cherri Jime",
-          "bio": "Drown due to being thrown overboard by motion of merch ship",
-          "nickname": "cjimee",
-          "address": "3610 Novick Crossing",
-          "link": "8.100.72.2",
-          "joined": "2020-01-26T20:13:39Z"
-        },
-        {
-          "id": "99b90320-ece5-48f2-94d0-06f3ec00891d",
-          "imageProfile": "http://dummyimage.com/296x398.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1062x267.png/5fa2dd/ffffff",
-          "name": "Danette Allanby",
-          "bio": "Fx oth prt scapula, unsp shoulder, subs for fx w routn heal",
-          "nickname": "dallanbyf",
-          "address": "6859 Forest Dale Way",
-          "link": "170.69.42.142",
-          "joined": "2019-06-29T00:54:00Z"
-        },
-        {
-          "id": "d0ca41e6-6866-464e-a47d-3f4d8775732b",
-          "imageProfile": "http://dummyimage.com/298x383.bmp/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1009x232.png/dddddd/000000",
-          "name": "Prissie Domingues",
-          "bio": "Poisoning by diagnostic agents, accidental, subs",
-          "nickname": "pdominguesg",
-          "address": "266 Chinook Court",
-          "link": "217.130.119.234",
-          "joined": "2019-07-04T00:26:02Z"
-        },
-        {
-          "id": "4247b559-b32e-44a6-995f-69b82b0e77e2",
-          "imageProfile": "http://dummyimage.com/290x373.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1166x258.bmp/ff4444/ffffff",
-          "name": "Derrik Buckbee",
-          "bio": "Nondisp fx of low epiphy (separation) of unsp femr, 7thJ",
-          "nickname": "dbuckbeeh",
-          "address": "86 Colorado Place",
-          "link": "195.239.38.75",
-          "joined": "2019-05-29T04:19:17Z"
-        },
-        {
-          "id": "c20220b4-7538-4930-b417-c21ff50893cd",
-          "imageProfile": "http://dummyimage.com/269x385.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1089x289.jpg/dddddd/000000",
-          "name": "Darleen Burder",
-          "bio": "Toxic effect of chlorofluorocarbons, accidental, subs",
-          "nickname": "dburderi",
-          "address": "86416 Lawn Pass",
-          "link": "97.164.58.115",
-          "joined": "2020-03-02T03:19:44Z"
-        },
-        {
-          "id": "4f5f2753-da1d-4fa4-bc79-d99c224619d3",
-          "imageProfile": "http://dummyimage.com/264x317.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1078x268.png/5fa2dd/ffffff",
-          "name": "Tabby Honsch",
-          "bio": "Unsp fx right patella, subs for opn fx type I/2 w malunion",
-          "nickname": "thonschj",
-          "address": "776 Graceland Pass",
-          "link": "6.199.137.153",
-          "joined": "2019-07-09T21:50:52Z"
-        },
-        {
-          "id": "3389fff7-517e-431e-90cd-a8c7357a64ca",
-          "imageProfile": "http://dummyimage.com/263x373.png/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1023x215.bmp/5fa2dd/ffffff",
-          "name": "Loise Buttrick",
-          "bio": "Follicular lymphoma grade I, extrnod and solid organ sites",
-          "nickname": "lbuttrickk",
-          "address": "513 Green Ridge Park",
-          "link": "223.65.88.35",
-          "joined": "2020-01-15T02:21:40Z"
-        },
-        {
-          "id": "98cb6cd4-e6aa-4604-8f55-e6468121934d",
-          "imageProfile": "http://dummyimage.com/253x368.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1044x300.jpg/ff4444/ffffff",
-          "name": "Dominic Nafzger",
-          "bio": "Nondisp fx of posterior process of unsp talus, sequela",
-          "nickname": "dnafzgerl",
-          "address": "1704 Tennessee Avenue",
-          "link": "44.200.42.104",
-          "joined": "2019-12-14T10:48:53Z"
-        },
-        {
-          "id": "ccbff61b-92bc-4dfe-92fb-42ac5edabe79",
-          "imageProfile": "http://dummyimage.com/276x367.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1110x203.bmp/dddddd/000000",
-          "name": "Nerissa Simonel",
-          "bio": "Oth benign neoplasm skin/ right upper limb, inc shoulder",
-          "nickname": "nsimonelm",
-          "address": "764 Marcy Alley",
-          "link": "166.20.121.192",
-          "joined": "2019-07-10T02:48:19Z"
-        },
-        {
-          "id": "67d47f88-ec23-4d86-9d7f-1afd1b7db5c4",
-          "imageProfile": "http://dummyimage.com/260x391.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1020x200.jpg/dddddd/000000",
-          "name": "Corina Samber",
-          "bio": "Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, init",
-          "nickname": "csambern",
-          "address": "1203 Butternut Parkway",
-          "link": "96.191.62.117",
-          "joined": "2020-02-22T08:15:02Z"
-        },
-        {
-          "id": "c7840644-232a-448d-96de-e015d0bd1375",
-          "imageProfile": "http://dummyimage.com/300x305.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1097x281.png/dddddd/000000",
-          "name": "Lu Ball",
-          "bio": "Pasngr in pk-up/van inj in clsn w 2/3-whl mv in traf, subs",
-          "nickname": "lballo",
-          "address": "528 Starling Hill",
-          "link": "203.14.46.89",
-          "joined": "2020-03-31T23:06:49Z"
-        },
-        {
-          "id": "4ad94f4a-4bd7-4e91-b02e-169819df969e",
-          "imageProfile": "http://dummyimage.com/278x309.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1100x212.bmp/cc0000/ffffff",
-          "name": "Aluino Krzysztofiak",
-          "bio": "Displ commnt fx shaft of l femr, 7thF",
-          "nickname": "akrzysztofiakp",
-          "address": "1 Graceland Street",
-          "link": "55.204.138.53",
-          "joined": "2019-08-09T20:22:46Z"
-        },
-        {
-          "id": "d8f4c2e0-2044-43c3-a7e8-0f62e3835a03",
-          "imageProfile": "http://dummyimage.com/294x312.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1069x292.jpg/5fa2dd/ffffff",
-          "name": "Elsinore Iddon",
-          "bio": "Disp fx of prox phalanx of r idx fngr, 7thD",
-          "nickname": "eiddonq",
-          "address": "96 Stang Parkway",
-          "link": "94.14.91.105",
-          "joined": "2019-12-01T02:06:41Z"
-        },
-        {
-          "id": "7fdc9f16-319c-4475-9334-30314539ab6a",
-          "imageProfile": "http://dummyimage.com/300x372.bmp/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1135x200.png/ff4444/ffffff",
-          "name": "Sidonia Buxcey",
-          "bio": "Other superficial bite of ankle, right ankle",
-          "nickname": "sbuxceyr",
-          "address": "06717 Welch Place",
-          "link": "97.38.38.33",
-          "joined": "2020-04-20T18:57:45Z"
-        },
-        {
-          "id": "e585b433-094a-450d-97dd-c1f6751ea200",
-          "imageProfile": "http://dummyimage.com/251x320.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1008x297.png/5fa2dd/ffffff",
-          "name": "Vi Huggins",
-          "bio": "Vis def/sptl nglct following cerebral infarction",
-          "nickname": "vhugginss",
-          "address": "1143 Anniversary Park",
-          "link": "113.76.118.205",
-          "joined": "2020-05-04T13:56:45Z"
-        },
-        {
-          "id": "6b4ddca8-d018-4981-81ca-629ae2fb1184",
-          "imageProfile": "http://dummyimage.com/266x349.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1129x283.png/5fa2dd/ffffff",
-          "name": "Lindsey Toplis",
-          "bio": "Lacerat intrns musc/fasc/tend r thm at wrs/hnd lv, sequela",
-          "nickname": "ltoplist",
-          "address": "0 Loomis Street",
-          "link": "46.185.238.158",
-          "joined": "2019-10-28T06:03:05Z"
-        },
-        {
-          "id": "c7946403-9d25-41f1-8079-4a86041d19f3",
-          "imageProfile": "http://dummyimage.com/259x303.png/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1148x230.jpg/ff4444/ffffff",
-          "name": "Moyna Chese",
-          "bio": "Type III traum spondylolysis of 5th cervcal vert, 7thK",
-          "nickname": "mcheseu",
-          "address": "0458 Stone Corner Trail",
-          "link": "206.72.248.141",
-          "joined": "2019-08-25T05:59:29Z"
-        },
-        {
-          "id": "4a71394d-4064-4d48-8b2a-395aa0d0aef8",
-          "imageProfile": "http://dummyimage.com/277x320.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1128x262.jpg/5fa2dd/ffffff",
-          "name": "Willy Janik",
-          "bio": "Interstitial myositis, right shoulder",
-          "nickname": "wjanikv",
-          "address": "72 Heath Court",
-          "link": "146.83.201.56",
-          "joined": "2020-03-08T05:34:27Z"
-        },
-        {
-          "id": "9ee4bd30-6735-4971-8219-8a3399a6f515",
-          "imageProfile": "http://dummyimage.com/276x367.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1101x261.jpg/cc0000/ffffff",
-          "name": "Ikey Dwerryhouse",
-          "bio": "Unsp car occ injured in clsn w pick-up truck in traf, subs",
-          "nickname": "idwerryhousew",
-          "address": "5256 Oriole Road",
-          "link": "47.77.183.186",
-          "joined": "2020-05-06T22:20:27Z"
-        },
-        {
-          "id": "a41daf48-ff2c-46bb-abf6-ae8e6c6b4f48",
-          "imageProfile": "http://dummyimage.com/269x324.bmp/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1038x232.bmp/ff4444/ffffff",
-          "name": "Monroe Hansod",
-          "bio": "Poisoning by inhaled anesthetics, assault",
-          "nickname": "mhansodx",
-          "address": "3447 Forest Run Point",
-          "link": "248.22.172.48",
-          "joined": "2019-07-30T01:35:33Z"
-        },
-        {
-          "id": "635550f8-5b60-4656-8d71-e6928cc411d2",
-          "imageProfile": "http://dummyimage.com/257x342.jpg/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1070x268.bmp/cc0000/ffffff",
-          "name": "Marcos Devas",
-          "bio": "Drowning and submersion due to fall off sailboat",
-          "nickname": "mdevasy",
-          "address": "96 Cascade Park",
-          "link": "206.106.208.37",
-          "joined": "2019-08-09T04:08:43Z"
-        },
-        {
-          "id": "608cd89e-f5de-4749-b0c3-5f00e255c9b2",
-          "imageProfile": "http://dummyimage.com/257x321.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1056x271.jpg/cc0000/ffffff",
-          "name": "Estel Walters",
-          "bio": "Chronic hepatic failure with coma",
-          "nickname": "ewaltersz",
-          "address": "1 Pierstorff Lane",
-          "link": "174.119.27.89",
-          "joined": "2019-11-28T19:09:13Z"
-        },
-        {
-          "id": "e4687ba8-556d-4ca4-9c37-3cd8d7becff8",
-          "imageProfile": "http://dummyimage.com/296x337.bmp/cc0000/ffffff",
-          "imageCover": "http://dummyimage.com/1147x202.bmp/cc0000/ffffff",
-          "name": "Glynn Fenton",
-          "bio": "Placentitis, third trimester, fetus 1",
-          "nickname": "gfenton10",
-          "address": "81617 Northland Pass",
-          "link": "114.241.85.167",
-          "joined": "2019-08-24T07:20:13Z"
-        },
-        {
-          "id": "686b1565-e6b7-49dd-b5e7-828558020525",
-          "imageProfile": "http://dummyimage.com/274x325.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1062x263.bmp/dddddd/000000",
-          "name": "Breanne Gislebert",
-          "bio": "Anterior subluxation of left sternoclavicular joint, init",
-          "nickname": "bgislebert11",
-          "address": "989 Maple Center",
-          "link": "128.167.5.226",
-          "joined": "2020-04-05T03:17:20Z"
-        },
-        {
-          "id": "5db0556f-16eb-4f11-8e45-b64a62ed5ccc",
-          "imageProfile": "http://dummyimage.com/274x379.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1146x214.jpg/cc0000/ffffff",
-          "name": "Stella Aleksankin",
-          "bio": "Contact with unspecified machinery, sequela",
-          "nickname": "saleksankin12",
-          "address": "6404 Mendota Point",
-          "link": "123.68.68.85",
-          "joined": "2020-04-28T12:58:40Z"
-        },
-        {
-          "id": "8975d537-7091-40a1-a68d-79e44b3c1c2b",
-          "imageProfile": "http://dummyimage.com/283x319.jpg/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1024x207.jpg/5fa2dd/ffffff",
-          "name": "Sonja Blenkharn",
-          "bio": "Occ of rail trn/veh injured by fall from rail trn/veh, init",
-          "nickname": "sblenkharn13",
-          "address": "18256 Bartillon Terrace",
-          "link": "132.200.19.115",
-          "joined": "2020-03-17T14:32:31Z"
-        },
-        {
-          "id": "f6bbd3d2-a1bc-42cc-83be-ac60254df2d0",
-          "imageProfile": "http://dummyimage.com/298x330.bmp/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1025x298.png/cc0000/ffffff",
-          "name": "Edlin Stopford",
-          "bio": "Unspecified injury of bronchus, unspecified, init encntr",
-          "nickname": "estopford14",
-          "address": "0468 Pearson Hill",
-          "link": "163.195.222.148",
-          "joined": "2019-12-13T13:38:57Z"
-        },
-        {
-          "id": "f530e59e-633f-4b01-8011-d9371e80bc8e",
-          "imageProfile": "http://dummyimage.com/280x303.png/ff4444/ffffff",
-          "imageCover": "http://dummyimage.com/1121x271.jpg/dddddd/000000",
-          "name": "Cassie Chatres",
-          "bio": "Corrosion of second degree of left elbow, subs encntr",
-          "nickname": "cchatres15",
-          "address": "670 Springs Park",
-          "link": "217.218.112.168",
-          "joined": "2019-07-14T04:16:42Z"
-        },
-        {
-          "id": "35e3d76b-938f-4810-ba57-3843749844c8",
-          "imageProfile": "http://dummyimage.com/255x392.png/5fa2dd/ffffff",
-          "imageCover": "http://dummyimage.com/1063x232.bmp/dddddd/000000",
-          "name": "Nerty Rozzell",
-          "bio": "Contact with duck",
-          "nickname": "nrozzell16",
-          "address": "1137 Waxwing Hill",
-          "link": "79.150.208.97",
-          "joined": "2020-03-08T18:57:21Z"
-        },
-        {
-          "id": "22f3feec-bd59-44ca-8891-2c35f00618c2",
-          "imageProfile": "http://dummyimage.com/266x321.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1101x299.png/5fa2dd/ffffff",
-          "name": "Marian Lorriman",
-          "bio": "Corrosion of unsp deg mult sites of left wrs/hnd, init",
-          "nickname": "mlorriman17",
-          "address": "1334 Dunning Street",
-          "link": "186.156.228.96",
-          "joined": "2019-07-08T11:43:16Z"
-        },
-        {
-          "id": "cf7a30e8-b6b4-46ca-8bfd-d65b8f7383c3",
-          "imageProfile": "http://dummyimage.com/270x332.bmp/dddddd/000000",
-          "imageCover": "http://dummyimage.com/1027x276.png/ff4444/ffffff",
-          "name": "Mattias Culpin",
-          "bio": "Injury of conjunctiva and corneal abrasion w/o fb, unsp eye",
-          "nickname": "mculpin18",
-          "address": "38 Farmco Place",
-          "link": "12.220.164.125",
-          "joined": "2019-05-31T15:52:28Z"
-        }
-      ]
-    }
-  ]
+  "tweets": []
 }
