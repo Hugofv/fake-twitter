@@ -1,4 +1,4 @@
-# [Lista de Presente] API React
+# [Fake API] API NodeJS
 
 Este repositório contém uma simples API para o desafio de front-end de Lista de presentes.
 
@@ -9,4 +9,4 @@ Este repositório contém uma simples API para o desafio de front-end de Lista d
 ## Como executar
 
 - Instale as dependências: `yarn install` or `npm install`
-- Start a API com o comando: `yarn json-server db.json --port 5000`
+- Start a API com o comando: `yarn start`
