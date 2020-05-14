@@ -1,6 +1,6 @@
 # [Fake API] API NodeJS
 
-Este repositório contém uma simples API para o desafio de front-end de Lista de presentes.
+Este repositório contém uma simples API para o desafio de front-end Fake Twitter.
 
 ## Requisitos
 
